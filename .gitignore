@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Images folder
+wiki_crop
+
 # C extensions
 *.so
 
